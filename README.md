@@ -10,6 +10,6 @@ You will need API creditials to be able to use the any of the functions in the n
   - [Instructions to set environment variables on Windows](https://docs.oracle.com/en/database/oracle/r-enterprise/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.html#GUID-DD6F9982-60D5-48F6-8270-A27EC53807D0)
   - [Instructions to set environment variables on Mac](https://medium.com/@youngstone89/setting-up-environment-variables-in-mac-os-28e5941c771c)
   
-To be able to run some of the wrapper functions which call Spotipy functions, you will need the spotipy package installed. Instructions on how to get it are [here](https://spotipy.readthedocs.io/en/2.16.1/#installation). 
+To be able to run some of the wrapper functions which call Spotipy functions, you will need the Spotipy package installed. Instructions on how to get it are [here](https://spotipy.readthedocs.io/en/2.16.1/#installation). 
 
 Enjoy!
